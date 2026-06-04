@@ -120,7 +120,10 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ## OUTPUT 
 
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-29 at 20 17 34" src="https://github.com/user-attachments/assets/f2c71ec0-2bf1-4f3c-a21d-bb012bc97edb" />
 
+
+<img width="1920" height="1200" alt="Screenshot 2026-05-29 092504" src="https://github.com/user-attachments/assets/8013c29d-1c32-4029-a7fd-62d6d4d298b5" />
 
 
 ## Result: 
